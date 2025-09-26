@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/jmkrizan/.nuget/packages/": {}
+    "C:\\Users\\jacks\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jmkrizan/Documents/GitHub/MadLibsv1/MadLibs/MadLibs.csproj",
+      "projectUniqueName": "C:\\Users\\jacks\\Documents\\Github\\Fizz_Buzz\\MadLibsv1\\MadLibs\\MadLibs.csproj",
       "projectName": "MadLibs",
-      "projectPath": "/Users/jmkrizan/Documents/GitHub/MadLibsv1/MadLibs/MadLibs.csproj",
-      "packagesPath": "/Users/jmkrizan/.nuget/packages/",
-      "outputPath": "/Users/jmkrizan/Documents/GitHub/MadLibsv1/MadLibs/obj/",
+      "projectPath": "C:\\Users\\jacks\\Documents\\Github\\Fizz_Buzz\\MadLibsv1\\MadLibs\\MadLibs.csproj",
+      "packagesPath": "C:\\Users\\jacks\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jacks\\Documents\\Github\\Fizz_Buzz\\MadLibsv1\\MadLibs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jmkrizan/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jacks\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

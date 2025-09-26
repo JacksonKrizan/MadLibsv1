@@ -23,7 +23,7 @@ void addWordsToStory()
 {
     for (int i = 0; i < wordTypes.Count; i++)
     {
-        Console.WriteLine(storyList[i], wordTypes[i]);
+        Console.WriteLine(storyList[i] + userInput[i]);
     }
 }
 
